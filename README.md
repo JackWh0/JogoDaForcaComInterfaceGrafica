@@ -9,4 +9,4 @@ Trabalho para a disciplina de "Gestão e qualidade de software" - IFAL :thinking
 <br/>
 
 
-Para visualizar o projeto no eclipse é necessário acrescentar o seguinte JAR: https://jar-download.com/maven-repository-class-search.php?search_box=%20org.netbeans.lib.awtextra.AbsoluteConstraints
+Para visualizar: Importe o projeto no Netbeans.
